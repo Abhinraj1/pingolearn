@@ -1,6 +1,5 @@
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:get/get.dart';
 import 'package:pingolearn/core/manager/color_manager.dart';
 import 'package:pingolearn/core/manager/route_manager.dart';
